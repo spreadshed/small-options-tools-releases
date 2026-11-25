@@ -10,7 +10,7 @@ Every tool answers one question, runs without accounts or servers, and uses only
 | --- | --- | --- | --- | --- |
 | 1 | Covered Call Evaluator & Log | Spreadsheet (Excel, Google Sheets, LibreOffice) | v1.0 | [tool01-covered-call-evaluator-log-v1.0.xlsx](https://github.com/spreadshed/small-options-tools-releases/releases/download/tool01-v1.0/tool01-covered-call-evaluator-log-v1.0.xlsx) |
 
-All versions and release notes will be published on this page.
+Every version and its release notes are listed under [Release notes](#release-notes) below.
 
 ## Opening a spreadsheet
 
@@ -28,6 +28,12 @@ Checks a covered call before you sell it, then logs every leg and adds up your p
 - **Trade Log:** one row per leg, with automatic position IDs, P/L and status
 - **Summary:** total, realized and open P/L, win rate and activity
 - **Example:** a filled-in log with two made-up trades
+
+## Release notes
+
+| Tool | Version | Released | Notes |
+| --- | --- | --- | --- |
+| 1 | v1.0 | 2026-11-24 | [Tool 1 v1.0](release-notes/tool01-v1.0.md) |
 
 ## License
 
