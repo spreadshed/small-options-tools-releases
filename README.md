@@ -10,7 +10,7 @@ Every tool answers one question, runs without accounts or servers, and uses only
 | --- | --- | --- | --- | --- |
 | 1 | Covered Call Evaluator & Log | Spreadsheet (Excel, Google Sheets, LibreOffice) | v1.0 | [tool01-covered-call-evaluator-log-v1.0.xlsx](https://github.com/spreadshed/small-options-tools-releases/releases/download/tool01-v1.0/tool01-covered-call-evaluator-log-v1.0.xlsx) |
 
-All versions and release notes are on the [Releases](https://github.com/spreadshed/small-options-tools-releases/releases) page.
+All versions and release notes will be published on this page.
 
 ## Opening a spreadsheet
 
